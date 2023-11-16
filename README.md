@@ -1,7 +1,6 @@
 <h1 align="center">👋Hey there, I'm Abdelali Chentoui</h1>
 <h3 align="center">A passionate CS student and software engineering enthusiast with a background in design, striving to combine my design knowledge with development to create and deliver seamless user experiences.</h3>
 
-<img alt="Chentoui" src="https://www.linkpicture.com/q/CHENTOUI-ABDELALI-GITHUB-COVER.png"/>
 
 - 🌱 I’m currently learning **🌿Spring and ⚛️React.**
 
